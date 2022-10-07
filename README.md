@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrishnaKumar491
+          👋 Hi, I’m @KrishnaKumar491
 - 👀 I’m interested in socialmedia 
 - 🌱 I’m currently learning coding 
 - 💞️ I’m currently pursuing computer science and engineering 
